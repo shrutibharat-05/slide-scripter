@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { cn } from '@/lib/utils';
-import { FilePresentation } from 'lucide-react';
+import { Presentation } from 'lucide-react';
 
 interface EmptyStateProps {
   className?: string;
@@ -11,7 +11,7 @@ const EmptyState: React.FC<EmptyStateProps> = ({ className }) => {
   return (
     <div className={cn("flex flex-col items-center justify-center text-center p-8", className)}>
       <div className="w-20 h-20 rounded-full bg-primary/10 flex items-center justify-center mb-6 animate-fade-in">
-        <FilePresentation className="h-10 w-10 text-primary" />
+        <Presentation className="h-10 w-10 text-primary" />
       </div>
       <h2 className="text-2xl font-semibold mb-2">Upload your presentation</h2>
       <p className="text-muted-foreground max-w-md mb-6">
