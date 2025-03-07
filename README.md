@@ -60,7 +60,6 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-Simply open [Lovable](https://lovable.dev/projects/f1e4b324-4584-41de-8463-8c8488f8cca8) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
