@@ -11,7 +11,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/f1e4b324-4584-41de-8463-8c8488f8cca8) and start prompting.
 
